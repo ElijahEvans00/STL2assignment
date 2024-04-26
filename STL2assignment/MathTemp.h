@@ -7,4 +7,7 @@
 #include <cmath>
 using namespace std;
 
+template <typename T>
+T half(T value);
+
 #endif
